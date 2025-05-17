@@ -84,7 +84,7 @@ int main() {
 ~~~
 
 ## Output:
-![444755378-f4572a2b-6c16-45ca-909f-d7c714314892](https://github.com/user-attachments/assets/a13d149b-9cc7-4eba-90dd-b6ba34602512)
+![Screenshot 2025-05-17 173630](https://github.com/user-attachments/assets/29a977a4-4e32-42bf-9ab0-2dff774f4eee)
 
 
 ## Result:
